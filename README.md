@@ -12,17 +12,9 @@ Timo Laakkonen AA4598
 It was planned to publish to Azure, but no luck despite numerous attempts.
 Possibly the large size of the csv file caused problems. It would be reasonable to store the data in e.g. Mongodb Atlas noSQL database.
 
-**Video:**
-
-https://jamkstudent-my.sharepoint.com/:v:/r/personal/aa4598_student_jamk_fi/Documents/Tallenne-20231105_151454.webm?csf=1&web=1&e=0WoTMy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
-
-
-https://jamkstudent-my.sharepoint.com/:v:/r/personal/aa4598_student_jamk_fi/Documents/Tallenne-20231105_163735.webm?csf=1&web=1&e=vaA6ol&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
-
-
 **Source code:**
 
-https://gitlab.labranet.jamk.fi/AA4598/mycycling
+https://github.com/laakkti/mycyclings
 
 
 ### 1. General introduction
