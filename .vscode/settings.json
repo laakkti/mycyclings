@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Visual Studio Light",
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/6c5d34e8-1b41-45f7-8c89-0695a576f33d/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/mycycling",
+    "appService.deploySubpath": ".",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ]
+}
